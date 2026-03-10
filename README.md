@@ -1,5 +1,11 @@
 # Soporte-TI-branching-
 Laboratorio branching equipo 2
+
+Erick: Problemas de usuario
+1. Restablecer contraseña
+2. 2. Revisar permisos
+3. 3. Verificar acceso a la red.
+
 Gerardo Problemas de impresora
 
 1 Revisar conexión USB
