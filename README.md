@@ -1,3 +1,20 @@
 # Soporte-TI-branching-
 Laboratorio branching equipo 2
-\n## Alumno 3: Problemas de usuario\n\n1. Restablecer contraseña\n2. Revisar permisos\n3. Verificar acceso a la red.
+
+Erick: Problemas de usuario
+1. Restablecer contraseña
+2. 2. Revisar permisos
+3. 3. Verificar acceso a la red.
+
+Gerardo Problemas de impresora
+
+1 Revisar conexión USB
+2 Verificar drivers
+3 Reiniciar spooler
+EDUARDO: Problemas de red
+
+Si no hay conexión:
+
+1 Verificar cable
+2 Reiniciar router
+3 Ejecutar ipconfig
